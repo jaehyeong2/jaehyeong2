@@ -37,7 +37,6 @@ wogud1514@gmail.com
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=intellij idea&logoColor=white">
-  <img src="https://img.shields.io/badge/datagrip-000000?style=flat&logo=datagrip&logoColor=white">
 </div>
 
 
