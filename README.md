@@ -14,7 +14,7 @@ wogud1514@gmail.com
 
 📗 **Blog**
 
-[추가 예정]()
+https://jjay2222.tistory.com/
 
 
 <h4 align="center">Github Stats</h4>
