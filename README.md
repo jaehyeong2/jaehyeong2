@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Lee%20Jae%20Hyeong&animation=fadeIn&fontSize=90)
 
-## :smile: Introduce
+## Introduce
 
-<p>백엔드 주니어 개발자 이재형입니다.</p>
+<p>백엔드 개발자 이재형입니다.</p>
 
 📧 **Email**
 
@@ -29,6 +29,7 @@ https://jjay2222.tistory.com/
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-007396?style=flat&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
   <br>
 </div>
